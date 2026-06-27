@@ -1,0 +1,12 @@
+{
+  "name": "PsyTech - Integrated Psychological Ecosystem",
+  "description": "A comprehensive digital ecosystem for psychology combining therapy, psychometrics, research, and scientific community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
